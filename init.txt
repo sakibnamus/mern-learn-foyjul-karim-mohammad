@@ -1,0 +1,27 @@
+Minimal Function      ———————————————— Lec - 8
+() => clg(“”);
+(X) => x*x; 
+
+Const square = (x) => {
+	Return function () => {
+	Return x*x ; // amra function ta return korbo .. 
+}
+Return function; // 
+}
+square(10)() ; // taile function call hobe 
+
+Self Executing  function .. 
+( function sayHi ()  { clg(Say hi); return “hello ”;  } )  ( )
+	// function ta automatic call hoye jabe … 
+Clouser    ———————————————— Lec - 9
+	
+Run time e arguments dhora and kaj kora .. 
+function inputTypes(){
+	Clg(“arguments “, arguments); // eita ekta array return kore .. arguments er
+	// shei ta dekhe bujhte pari amra ki ki jinish , parameter hishebe receive 
+	// korbo ..  
+}
+
+Array.                        ———————————————— Lec - 10
+Length 
+IsArray (alternative : instanceof) -> function .. boolean return kore .. 
